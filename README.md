@@ -1,5 +1,7 @@
 <img width="600" src="https://rawgit.com/Leaflet/Leaflet/master/src/images/logo.svg" alt="Leaflet" />
 
+Note: add suport crs of baidu map.
+
 Leaflet is the leading open-source JavaScript library for **mobile-friendly interactive maps**.
 Weighing just about 37 KB of gzipped JS code, it has all the mapping [features][] most developers ever need.
 
