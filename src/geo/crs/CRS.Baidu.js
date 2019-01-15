@@ -12,6 +12,7 @@ import * as Util from '../../core/Util';
 
 export var Baidu = Util.extend({}, Earth, {
 	code: 'baidu',
+	wrapLng: undefined,
 	projection: BaiduMercator,
 	transformation: toTransformation(1, 0, -1, 0),
 	_scales: (function () {
