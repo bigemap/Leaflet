@@ -1,6 +1,6 @@
 {
-  "name": "leaflet",
-  "version": "1.4.0",
+  "name": "@bigemap/leaflet",
+  "version": "1.4.1",
   "description": "JavaScript library for mobile-friendly interactive maps",
   "devDependencies": {
     "eslint": "^4.5.0",
@@ -94,7 +94,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Leaflet/Leaflet.git"
+    "url": "git://github.com/bigemap/Leaflet.git"
   },
   "keywords": [
     "gis",

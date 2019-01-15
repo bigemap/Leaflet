@@ -23,4 +23,5 @@
 
 export {LonLat} from './Projection.LonLat';
 export {Mercator} from './Projection.Mercator';
+export {BaiduMercator} from './Projection.BaiduMercator';
 export {SphericalMercator} from './Projection.SphericalMercator';
